@@ -47,7 +47,7 @@ main div.text p {
 }
 
 main div.text p>span {
-  width: .25em;
+  width: .25rem; /*fix*/
 }
 
 /* CURSOR */
