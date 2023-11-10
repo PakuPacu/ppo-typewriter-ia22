@@ -1,0 +1,29 @@
+link do artigo da FICE:
+https://docs.google.com/document/d/1_Gdd3UXQtL8qDk9PnuDyDow091FD5gxh/edit?usp=sharing&ouid=112865734500523842606&rtpof=true&sd=true
+
+link do video:
+: não realizei.
+
+link do banner:
+https://drive.google.com/file/d/1PstqfPQ0IEcZajIWBiIXscXCr2PZF-Uu/view?usp=sharing
+
+participei da FICE com um stand do PPO?
+: não.
+
+o que o trabalho se trata?
+: simulando um prompt de um O.S, rodando o que se parece um jogo estilo text adventure, com aparência da janela semelhante a do macos com
+a paleta utilizada do cummon_dank_starter (para linux).
+
+o trabalho do PPO está finalizado?
+: não, necessita o ajuste de bugs, e melhor finalização na responsividade e na aparência final.
+
+ps:
+: este projeto era um prototipo de uns dos "mais avançados testes" que realizei no inicio do 2° trimestre, não possuo nada entre outros
+prototipos além desse em algum estado produtivo, mas sim, peguei algumas funções desses meus testes e "adaptei" para o código final.
+Ainda não consegui fazer um sistema descente de checar se o cursor está no final do container que ele está alojado, então para essa ver.
+que estará disponivel, depedente do tamanho da janela, poderá resultar em glitchs gráficos, ou "pulo de linha" multiplo (que ainda não
+sei o do porque está acontecendo).
+É isso ♥
+
+Por: Marcus Paulo de Alcantara Saraiva, IA22, em 10/11 2023;
+Docente: Daniel de Andrade Varela;
