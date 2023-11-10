@@ -1,0 +1,8 @@
+window.addEventListener("gamestarted", ev => console.log("gamestarted"))
+ window.addEventListener("letter", ev => console.log("letter"))
+ window.addEventListener("correctletter", ev => console.log("correctletter"))
+ window.addEventListener("wrongletter", ev => console.log("wrongletter"))
+ window.addEventListener("word", ev => console.log("word"))
+ window.addEventListener("correctword", ev => console.log("correctword"))
+ window.addEventListener("wrongword", ev => console.log("wrongword"))
+ window.addEventListener("endgame", ev => console.log("endgame"))
